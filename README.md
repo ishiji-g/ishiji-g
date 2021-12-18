@@ -1,4 +1,4 @@
-ishiji-g, now.
+ishiji-g: ishiji for github.
 
 <!---
 - 👋 Hi, I’m @ishiji-g
