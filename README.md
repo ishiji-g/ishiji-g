@@ -1,4 +1,4 @@
-ishiji-g: ishiji for github.
+ishiji-git: ishiji for github.
 
 <!---
 - 👋 Hi, I’m @ishiji-git
